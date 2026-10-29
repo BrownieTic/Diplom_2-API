@@ -1,0 +1,1 @@
+{"uuid": "eaeaed50-152f-4a3a-b3d9-ca989742541a", "children": ["ee419f98-cafc-4cbe-9070-00ba57f4204e"], "befores": [{"name": "request_create_class", "status": "passed", "start": 1792688730261, "stop": 1792688730261}], "afters": [{"name": "request_create_class::<lambda>", "start": 1792688730303}], "start": 1792688730261, "stop": 1792688730303}
